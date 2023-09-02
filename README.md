@@ -48,7 +48,6 @@ The FSM and counter work in tandem to achieve the desired sequence of operations
 
 ### Assignment Q3 - Video
 
-![Q3_FPGA_32281013.mp4](Q3_FPGA_32281013.mp4)
 `Q3_FPGA_32281013.mp4`: This video demonstrates Assignment Q3, offering a real-time view of the circuit in action. It provides valuable insights into the functionality and behavior of the implemented FSM and counter.
 
 ### Assignment Q3 - Image
