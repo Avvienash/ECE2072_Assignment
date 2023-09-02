@@ -34,10 +34,17 @@ The FSM and counter work in tandem to achieve the desired sequence of operations
 
 ### Assignment Q2 - Images
 
-- `Q2_32281013a.PNG`: This image represents an aspect of Assignment Q2, illustrating a specific state or transition in the FSM.
-- `Q2_32281013b.PNG`: Another image related to Assignment Q2, providing further insights into the FSM's behavior.
-- `Q2_32281013c.PNG`: An additional visual from Assignment Q2, contributing to a comprehensive understanding of the FSM.
-- `Q2_32281013d.PNG`: Yet another image tied to Assignment Q2, showing critical aspects of the FSM's operation.
+![Q2_32281013a.PNG](Q2_32281013a.PNG)
+*This image represents an aspect of Assignment Q2, illustrating a specific state or transition in the FSM.*
+
+![Q2_32281013b.PNG](Q2_32281013b.PNG)
+*Another image related to Assignment Q2, providing further insights into the FSM's behavior.*
+
+![Q2_32281013c.PNG](Q2_32281013c.PNG)
+*An additional visual from Assignment Q2, contributing to a comprehensive understanding of the FSM.*
+
+![Q2_32281013d.PNG](Q2_32281013d.PNG)
+*Yet another image tied to Assignment Q2, showing critical aspects of the FSM's operation.*
 
 ### Assignment Q3 - Video
 
@@ -45,7 +52,8 @@ The FSM and counter work in tandem to achieve the desired sequence of operations
 
 ### Assignment Q3 - Image
 
-- `Q3_Quartus_32281013.PNG`: This image is related to Assignment Q3 and complements the video, showcasing the design within Quartus software.
+![Q3_Quartus_32281013.PNG](Q3_Quartus_32281013.PNG)
+*This image is related to Assignment Q3 and complements the video, showcasing the design within Quartus software.*
 
 ### Assignment Q4 - Discussion
 
